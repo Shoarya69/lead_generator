@@ -1,0 +1,8 @@
+*.env
+*.csv
+*.xlsx
+html
+__pycache__
+book_lin
+playwright_profile_3
+ollma_fun

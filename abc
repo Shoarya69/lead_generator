@@ -1,0 +1,51 @@
+"id","country","business","query","is_used","tier"
+1,"United Kingdom","restaurant","restaurant in United Kingdom",1,1
+2,"United Kingdom","cafe","cafe in United Kingdom",1,1
+3,"United Kingdom","bar","bar in United Kingdom",1,1
+4,"United Kingdom","pub","pub in United Kingdom",1,1
+5,"United Kingdom","bakery","bakery in United Kingdom",1,1
+6,"United Kingdom","fast food restaurant","fast food restaurant in United Kingdom",1,1
+7,"United Kingdom","cloud kitchen","cloud kitchen in United Kingdom",1,1
+8,"United Kingdom","catering service","catering service in United Kingdom",1,1
+9,"United Kingdom","food delivery service","food delivery service in United Kingdom",1,1
+10,"United Kingdom","e-commerce store","e-commerce store in United Kingdom",1,1
+11,"United Kingdom","online store","online store in United Kingdom",1,1
+12,"United Kingdom","clothing store","clothing store in United Kingdom",1,1
+13,"United Kingdom","jewelry store","jewelry store in United Kingdom",1,1
+14,"United Kingdom","furniture store","furniture store in United Kingdom",1,1
+15,"United Kingdom","electronics store","electronics store in United Kingdom",1,1
+16,"United Kingdom","mobile phone shop","mobile phone shop in United Kingdom",1,1
+17,"United Kingdom","computer store","computer store in United Kingdom",1,1
+18,"United Kingdom","cosmetics store","cosmetics store in United Kingdom",1,1
+19,"United Kingdom","shoe store","shoe store in United Kingdom",1,1
+20,"United Kingdom","gift shop","gift shop in United Kingdom",1,1
+21,"United Kingdom","fitness center","fitness center in United Kingdom",1,1
+22,"United Kingdom","gym","gym in United Kingdom",1,1
+23,"United Kingdom","yoga studio","yoga studio in United Kingdom",1,1
+24,"United Kingdom","beauty salon","beauty salon in United Kingdom",1,1
+25,"United Kingdom","hair salon","hair salon in United Kingdom",1,1
+26,"United Kingdom","barber shop","barber shop in United Kingdom",1,1
+27,"United Kingdom","nail salon","nail salon in United Kingdom",1,1
+28,"United Kingdom","spa","spa in United Kingdom",1,1
+29,"United Kingdom","massage center","massage center in United Kingdom",1,1
+30,"United Kingdom","photography studio","photography studio in United Kingdom",1,1
+31,"United Kingdom","videography service","videography service in United Kingdom",1,1
+32,"United Kingdom","event planner","event planner in United Kingdom",0,1
+33,"United Kingdom","wedding planner","wedding planner in United Kingdom",0,1
+34,"United Kingdom","travel agency","travel agency in United Kingdom",0,1
+35,"United Kingdom","tour operator","tour operator in United Kingdom",0,1
+36,"United Kingdom","real estate agent","real estate agent in United Kingdom",0,1
+37,"United Kingdom","property management company","property management company in United Kingdom",0,1
+38,"United Kingdom","coaching institute","coaching institute in United Kingdom",0,1
+39,"United Kingdom","online coaching","online coaching in United Kingdom",0,1
+40,"United Kingdom","coding institute","coding institute in United Kingdom",0,1
+41,"United Kingdom","language institute","language institute in United Kingdom",0,1
+42,"United Kingdom","test preparation center","test preparation center in United Kingdom",0,1
+43,"United Kingdom","digital marketing agency","digital marketing agency in United Kingdom",0,1
+44,"United Kingdom","advertising agency","advertising agency in United Kingdom",0,1
+45,"United Kingdom","branding agency","branding agency in United Kingdom",0,1
+46,"United Kingdom","pharmacy","pharmacy in United Kingdom",0,2
+47,"United Kingdom","medical clinic","medical clinic in United Kingdom",0,2
+48,"United Kingdom","dental clinic","dental clinic in United Kingdom",0,2
+49,"United Kingdom","veterinary clinic","veterinary clinic in United Kingdom",0,2
+50,"United Kingdom","interior designer","interior designer in United Kingdom",0,2
